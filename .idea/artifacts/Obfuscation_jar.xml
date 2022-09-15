@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Obfuscation:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Obfuscation_jar</output-path>
+    <root id="archive" name="Obfuscation.jar">
+      <element id="module-output" name="JavaObfuscation" />
+    </root>
+  </artifact>
+</component>
